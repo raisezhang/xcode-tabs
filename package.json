@@ -1,0 +1,18 @@
+{
+  "name": "xcode-tabs",
+  "main": "./lib/xcode-tabs",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "xcode-tabs:toggle"
+  },
+  "repository": "https://github.com/atom/xcode-tabs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
